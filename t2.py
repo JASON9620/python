@@ -483,12 +483,12 @@
 # print(aa, bb, cc)
 #
 #
-# a = 1000
-# b = 1000
-# c = a
-# id(a)
-# id(b)
-# print(a is c)
+a = 1000
+b = 1000
+c = a
+id(a)
+id(b)
+print(a is c)
 import numpy as np
 import matplotlib.pyplot as plt
 xMat = np.mat([[1,2,4],[3,4,2]])
