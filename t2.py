@@ -491,7 +491,7 @@
 # print(a is c)
 import numpy as np
 import matplotlib.pyplot as plt
-# xMat = np.mat([[1,2,4],[3,4,2]])
+xMat = np.mat([[1,2,4],[3,4,2]])
 fig = plt.figure()
 ax = fig.add_subplot(111)
 ax.plot([0,1], [1,2], 'b--')
