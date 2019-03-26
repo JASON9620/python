@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/github/Evolutionary-Algorithm/tutorial-contents/Genetic Algorithm/.idea/Genetic Algorithm.iml" filepath="E:/github/Evolutionary-Algorithm/tutorial-contents/Genetic Algorithm/.idea/Genetic Algorithm.iml" />
+      <module fileurl="file://E:/python资料/TensorFlow-Examples-master/.idea/TensorFlow-Examples-master.iml" filepath="E:/python资料/TensorFlow-Examples-master/.idea/TensorFlow-Examples-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../py2/.idea/py2.iml" filepath="$PROJECT_DIR$/../py2/.idea/py2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python.iml" filepath="$PROJECT_DIR$/.idea/python.iml" />
+      <module fileurl="file://E:/python资料/机器学习实战code/.idea/机器学习实战code.iml" filepath="E:/python资料/机器学习实战code/.idea/机器学习实战code.iml" />
+    </modules>
+  </component>
+</project>
