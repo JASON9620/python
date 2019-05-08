@@ -483,19 +483,34 @@
 # print(aa, bb, cc)
 #
 #
-a = 1000
-b = 1000
-c = a
-id(a)
-id(b)
-print(a is c)
-import numpy as np
-import matplotlib.pyplot as plt
-xMat = np.mat([[1,2,4],[3,4,2]])
-fig = plt.figure()
-ax = fig.add_subplot(111)
-ax.plot([0,1], [1,2], 'b--')
-plt.show()
+# a = 1000
+# b = 1000
+# c = a
+# id(a)
+# id(b)
+# print(a is c)
+# import numpy as np
+# import matplotlib.pyplot as plt
+# xMat = np.mat([[1,2,4],[3,4,2]])
+# fig = plt.figure()
+# ax = fig.add_subplot(111)
+# ax.plot([0,1], [1,2], 'b--')
+# plt.show()
+
+# try:
+#         print('try')
+#         r = 10 / 0
+#         print('result:', r)
+# except:
+#         print('except:')
+# finally:
+#         print('finally')
+# print('end')
+
+# import pandas as pd
+# a = pd.Series([1,2,3,4])
+# b = pd.Series([3,4,5,6,7])
+# a + b
 
 
 

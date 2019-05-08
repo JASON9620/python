@@ -23,6 +23,7 @@ This is a temporary script file.
 # t=t2-t1
 # print(t)
 import copy
+import numpy
 a=[[1,2,3],[4,5,6]]
 b=a[1]
 print(b)
